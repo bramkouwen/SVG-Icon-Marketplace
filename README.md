@@ -2,7 +2,7 @@
 Icon Chest
 
 ## Project description
-This project is my SVG-Icon-Marketplace homework assignment for my MMED-1055-01-22S Multimedia Authoring 2 class. For the assignment I have created a icon store called Icon Chest. I gave it a logo and a nav and search bar. 
+This project is my SVG-Icon-Marketplace homework assignment for my MMED-1055-01-22S Multimedia Authoring 2 class. For the assignment I have created a icon store called Icon Chest. I gave it a logo,a nav, and search bar. 
 The icons I created are about musical instruments. There are twelve in total and they are all white and there is a hover feature on them so that they get a border when you move your mouse across them. 
 
 ## Store name
